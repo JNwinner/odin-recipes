@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+}
+
+h1, h3 {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    text-align: center;
+    
+
+}
+img {
+    float: right;
+    width: 700px;
+    height: auto;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+li {
+    font-family: monospace;
+    font-size: 14px;
+
